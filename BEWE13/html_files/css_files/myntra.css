@@ -1,0 +1,106 @@
+@import url("../../web/fontawesome-free-5.15.2-web/fontawesome-free-5.15.2-web/css/all.css");
+*
+{
+    margin: 0px;
+    padding: 3px;
+}
+
+
+img
+{ 
+    display: inline-block;
+    position: relative;
+    top: 20px;
+
+    width: 86px;
+    height: 42px;
+}
+nav
+{
+    position: sticky;
+    display: inline-block;
+    margin: 1px;
+    margin-left: 10px;
+    position: relative;
+    left: 1px;
+    text-decoration: none;
+}
+#r1
+{
+    margin: 10px;
+    position: relative;
+    left: 10px;
+    text-decoration: none;
+    color: black;
+}
+#r2
+{
+    margin: 10px;
+    position: relative;
+    left: 10px;
+    text-decoration: none;
+    color: black;
+}
+#r3
+{
+    margin: 10px;
+    position: relative;
+    left: 10px;
+    text-decoration: none;
+    color: black;
+}
+#r4
+{
+    margin: 10px;
+    position: relative;
+    left: 10px;
+    text-decoration: none;
+    color: black;
+}
+#r5
+{
+    margin: 10px;
+    position: relative;
+    left: 10px;
+    text-decoration: none;
+    color: black;
+}
+#l1
+{
+    margin: 10px;
+    position: relative;
+    left: 50px;
+}
+div
+{
+    margin: 15px;
+    position: relative;
+    left: 100px;
+    display: inline-block;
+    line-height: 5px;
+}
+
+span
+{
+    
+    margin:4px;
+}
+/*.desktop-logoContainer 
+{
+    float: left;
+    height: inherit;
+    margin-left: 4%;
+}*/
+a
+{
+    font-size: 15px;
+    margin: 5px;
+    color: black;
+    text-decoration: none;
+}
+i
+{
+    margin: 10px;
+    text-align: center;
+}
+

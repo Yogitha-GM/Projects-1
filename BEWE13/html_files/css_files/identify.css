@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Source+Sans+Pro&display=swap');
+@import url("../../web/fontawesome-free-5.15.2-web/fontawesome-free-5.15.2-web/css/all.css");
+
+body
+{
+    background-image: url(../../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-transform: uppercase;
+    font-family:"Source Sans Pro", Helvetica,sans-serif;
+    color: #414f57;
+    letter-spacing:6px;
+    font-weight:600;
+    font-size:18px;
+    line-height: 2;
+}
+#container
+{
+    background-color: white;
+    /* height: 500px; */
+    width: 400px;
+    text-align: center;
+    position: relative;
+    top: 130px;
+    left: 526px;
+    border: 1px solid black;
+    border-radius: 6px;
+    opacity: 0.9;
+}
+img
+{
+    border-radius: 65px;
+}
+p
+{
+    font-size: 14px;
+    letter-spacing: 3px;
+    
+}
+ul
+{
+    list-style-type: none;
+}
+li
+{
+    display: inline-block;
+    margin: 20px;
+    background-color:white ;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid blanchedalmond;
+}
+.icon
+{
+    position: relative;
+    top:10px;
+    left: 4px;
+}
+li:hover
+{
+    background-color:aqua;
+    border: 1px solid white;
+}

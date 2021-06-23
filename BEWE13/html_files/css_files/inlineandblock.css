@@ -1,0 +1,24 @@
+#nav
+{
+    height: 100px;
+    background-color: grey;
+}
+#main
+{
+    height: 650px;
+    width: 900px;
+    background-color: darkcyan;
+    float:left;
+}
+#ads
+{
+    height: 650px;
+    width: 100px;
+    background-color:darkkhaki;
+    float: right;   
+}
+#contactus
+{
+    height: 100px;
+    background-color: darkorange;
+}

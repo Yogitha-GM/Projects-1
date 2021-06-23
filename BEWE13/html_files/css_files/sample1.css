@@ -1,0 +1,66 @@
+p
+{
+    color: blueviolet;
+    font-size: 20px;
+}
+
+
+
+div
+{
+    background-color: crimson;
+}
+.para
+{
+    color: white;
+}
+#p3
+{
+    color: crimson;
+}
+h1
+{
+    color: white;
+}
+p
+{
+    color: white;
+}
+/* *
+{
+    margin: 0px;
+    padding: 0px;
+}*/
+
+
+
+
+
+
+.same
+{
+    background-color: hotpink;
+}
+#diff
+{
+    color:darkgreen;
+}
+h1
+{
+    color:seagreen;
+}
+
+div{
+    background-color: crimson;
+}
+#p1{
+    color:white;
+}
+#p2{
+    color:white;
+}
+#p3{
+    color:crimson;
+}
+
+

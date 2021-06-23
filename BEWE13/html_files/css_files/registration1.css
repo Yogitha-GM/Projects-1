@@ -1,0 +1,21 @@
+.registration
+{
+    text-align: center;
+}
+h1
+{
+    color:orangered;
+    font-size: 40px;
+}
+table
+{
+    color:mediumblue;
+}
+button
+{
+    background-color: aqua;
+}
+input
+{
+    background-color:lawngreen;
+}

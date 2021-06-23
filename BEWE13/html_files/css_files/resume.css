@@ -1,0 +1,32 @@
+.cv
+{
+    text-align: center;
+    color: goldenrod;
+}
+h2
+{
+    color: orangered;
+}
+
+h3
+{
+    color:purple;
+}
+tr
+{
+    color:blue;
+    font-size: 20px;
+}
+p
+{
+    color:green;
+    font-size: 20px;
+}
+thead
+{
+    background-color:magenta;
+}
+tbody
+{
+    background-color:grey;
+}

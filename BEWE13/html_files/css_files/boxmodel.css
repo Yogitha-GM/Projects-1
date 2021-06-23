@@ -1,0 +1,33 @@
+body
+{
+background-color: cadetblue;
+margin: 20px 50px 75px 100px;
+}
+p
+{
+    background-color:brown;
+    border:5px solid black;
+    padding: 25px;
+}
+p
+{
+    background-color: crimson;
+    border-top: 5px;
+    border-style:dashed;
+   
+    border-color:darkblue;
+    
+    border-left:dashed;
+    border-left-color: blueviolet;
+    border-bottom:ridge;
+    border-bottom-color: green;
+    border-right:outset;
+    border-right-color: goldenrod;
+}
+p
+{
+    padding-top: 50px;
+    padding-left: 105px ;
+    padding-bottom: 20px ;
+    padding-right: 50px;
+}
